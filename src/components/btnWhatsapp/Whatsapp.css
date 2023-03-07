@@ -1,0 +1,29 @@
+
+.whatsapp {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+    background: rgb(211, 153, 33);
+    background: linear-gradient(0deg, rgba(211, 153, 33, 1) 10%, rgba(253, 214, 91, 1) 50%, rgba(211, 153, 33, 1) 90%);
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 40px;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    transition: .2s ease-in-out;
+}
+
+.whatsapp:hover {
+    background-color: var(--colorletraclaro);
+    color: var(--colorletraoscuro);
+}
+
+/* MOBILE */
+@media screen and (max-width: 767px) {}

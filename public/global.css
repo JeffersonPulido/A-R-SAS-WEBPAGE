@@ -1,0 +1,18 @@
+/*FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600;800&display=swap');
+
+/*ROOT*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    /*VAR*/
+    --darkgreen: #148d57;
+    --green: #01a75b;
+    --yellow: #fecd29;
+    --white: #f7f7f7;
+    --letter: #333333;
+    --darkgold: #d39921;
+    --lightgold: #fdd65b;
+}
