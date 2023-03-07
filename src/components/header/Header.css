@@ -349,15 +349,14 @@ p.infoDesc {
         margin-top: 2rem;
     }
 
-    .infoTitlemin {
-        top: 0;
-        font-size: 1.5rem;
-        text-shadow: 8px 8px 25px #ffffff00;
+    .infoTitle{
+        font-size: 2.5rem;
     }
 
-    p.infoTitle {
-        color: var(--colorblanco);
-        text-shadow: 0px 0px 10px var(--darkgold);
+    .infoTitlemin {
+        top: 0;
+        font-size: 1rem;
+        text-align: center;
     }
 
     p.infoDesc {

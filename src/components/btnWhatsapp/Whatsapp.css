@@ -5,8 +5,8 @@
     height: 60px;
     bottom: 20px;
     right: 20px;
-    background: rgb(211, 153, 33);
-    background: linear-gradient(0deg, rgba(211, 153, 33, 1) 10%, rgba(253, 214, 91, 1) 50%, rgba(211, 153, 33, 1) 90%);
+    background: var(--darkgreen);
+    background: linear-gradient(0deg, var(--darkgreen) 10%, var(--green) 50%, var(--darkgreen) 90%);
     color: white;
     border-radius: 50px;
     text-align: center;
@@ -21,8 +21,8 @@
 }
 
 .whatsapp:hover {
-    background-color: var(--colorletraclaro);
-    color: var(--colorletraoscuro);
+    background: var(--darkgreen);
+    background: linear-gradient(0deg, var(--green) 10%, var(--darkgreen) 50%, var(--green) 90%);
 }
 
 /* MOBILE */
