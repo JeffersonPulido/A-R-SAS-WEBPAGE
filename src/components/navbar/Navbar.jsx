@@ -22,7 +22,7 @@ export const Navbar = () => {
           <div className="socialNav">
             <a href="https://www.facebook.com/eventplannerscol/" target="_blank"><i className="fa-brands fa-facebook"></i></a>
             <a href="https://www.instagram.com/event.planners.col/" target="_blank"><i className="fa-brands fa-instagram"></i></a>
-            <a href="https://wa.me/+573228782459/?text=¡Hola!%20Me%20gustaría%20realizar%20una%20cotización%20por%20favor,%20gracias!" target="_blank"><i className="fa-brands fa-whatsapp"></i></a>
+            <a href="https://wa.me/+573122684578/?text=¡Hola!%20Me%20gustaría%20recibir%20una%20asesoria%20por%20favor,%20gracias!" target="_blank"><i className="fa-brands fa-whatsapp"></i></a>
           </div>
           {/* BTN NAVBAR HAMBURGUER */}
           <div className="nav-btn">

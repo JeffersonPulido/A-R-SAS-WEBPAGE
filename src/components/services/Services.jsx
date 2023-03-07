@@ -10,19 +10,29 @@ export const Services = () => {
           <h1 data-aos="zoom-in" data-aos-delay="300">Nuestros Servicios</h1>
           <div className="row">
             <div className="service" data-aos="flip-up" data-aos-delay="600">
-              <i className="fa-solid fa-list-check"></i>
-              <h2>Organizacion de Eventos</h2>
-              <p>Servicio profesional para planear y organizar todos los detalles de un evento de manera única.</p>
+              <i class="fa-solid fa-user-nurse"></i>
+              <h2>Afiliaciones a seguridad social</h2>
+              <p>Realizamos afiliaciones corporativas tanto a empresas nuevas y sus trabajadores, independientes y/o comerciantes.</p>
+            </div>
+            <div className="service" data-aos="flip-up" data-aos-delay="600">
+              <i class="fa-solid fa-shield-halved"></i>
+              <h2>Seguridad y Confianza</h2>
+              <p>Pagas tus servicios después de recibir soportes de afiliación y recibe mensualmente tu planilla de pago de aportes.</p>
+            </div>
+            <div className="service" data-aos="flip-up" data-aos-delay="600">
+              <i class="fa-solid fa-gavel"></i>
+              <h2>Normativa</h2>
+              <p>Realizamos todos los procesos bajo la resolución 2012 del 2022.</p>
             </div>
             <div className="service" data-aos="flip-up" data-aos-delay="800">
-              <i className="fa-solid fa-calendar-days"></i>
-              <h2>Decoracion de Eventos</h2>
-              <p>Servicio para diseñar y crear una atmosfera única para cualquier tipo de evento.</p>
+              <i class="fa-solid fa-house"></i>
+              <h2>Perfilamiento de subsidio de vivienda y arrendamiento </h2>
+              <p>Tramitamos tu subsidio de vivienda y arrendamiento ante cajas de compensación, te ayudamos a evitar filas y reprocesos en los diversos trámites.</p>
             </div>
             <div className="service" data-aos="flip-up" data-aos-delay="1000">
-              <i className="fa-solid fa-utensils"></i>
-              <h2>Servicios de Catering</h2>
-              <p>Servicio para preparar y servir comida y bebida para un evento y satisfacer a todos los invitados.</p>
+              <i class="fa-solid fa-clock"></i>
+              <h2>Reducción de tiempo e interés de créditos hipotecarios</h2>
+              <p>Te ayudamos a pagar tu vivienda en un tiempo menor al establecido. ¡Estudio gratis!</p>
             </div>
           </div>
         </div>
