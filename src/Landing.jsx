@@ -14,6 +14,7 @@ export const Landing = () => {
       <Navbar/>
       <Header/>
       <Services/>
+      <Testimonials/>
     </>
   )
 }

@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: "Raleway";
+    font-family: "Eczar";
     padding-bottom: 10%;
 }
 
@@ -27,7 +27,7 @@
 
 #box h1::after {
     content: '';
-    background: var(--darkgold);
+    background: var(--darkgreen);
     width: 20%;
     height: 5px;
     position: absolute;
@@ -59,8 +59,8 @@
     padding-left: 5%;
     padding-right: 5%;
     border-radius: 20px;
-    border: 2px solid var(--darkgold);
-    height: 255px;
+    border: 2px solid var(--darkgreen);
+    height: 180px;
     font-family: 'Eczar';
 }
 
@@ -71,7 +71,7 @@
 }
 
 .myCarousel h3 {
-    color: var(--darkgold);
+    color: var(--darkgreen);
     font-weight: 100;
     letter-spacing: 0.2px;
     margin-bottom: 4px;
@@ -92,7 +92,7 @@
 
 .myCarousel p:before {
     content: "“";
-    color: var(--darkgold);
+    color: var(--darkgreen);
     font-size: 26px;
     font-family: monospace;
     font-weight: 100;
@@ -100,7 +100,7 @@
 
 .myCarousel p:after {
     content: "”";
-    color: var(--darkgold);
+    color: var(--darkgreen);
     font-size: 26px;
     font-family: monospace;
     font-weight: 100;
@@ -114,7 +114,7 @@
 }
 
 .carousel.carousel-slider .control-arrow {
-    background: var(--darkgold) !important;
+    background: var(--darkgreen) !important;
     height: 50px !important;
     position: absolute;
     top: 35% !important;
@@ -143,7 +143,7 @@
 
     .myCarousel {
         background: #ffffff;
-        border: 2px solid var(--darkgold);
+        border: 2px solid var(--darkgreen);
         font-family: 'Eczar';
         margin-top: 5%;
         width: 88%;

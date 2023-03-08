@@ -19,15 +19,38 @@ export const Testimonials = () => {
             interval={6100}>
             <div data-aos="fade-down" data-aos-delay="300">
               <div className="myCarousel">
-                <h3>Roberto Díaz</h3>
-                <p>Event Planners es una empresa excepcional con la que tuve la oportunidad de trabajar. Los profesionales que maneja esta empresa son muy creativos, trabajan con entusiasmo y siempre entregan excelentes resultados. Muchas gracias por haber hecho el sueño de mi hija realidad.</p>
+                <h3>Dayana Hidalgo</h3>
+                <p>Excelente servicio, atención oportuna de calidad ⭐️⭐️⭐️⭐️⭐️</p>
               </div>
             </div>
-
             <div data-aos="fade-down" data-aos-delay="300">
               <div className="myCarousel">
-                <h3>Samantha Quintero</h3>
-                <p>Angie y Laura solo tengo agradecimiento hacia ustedes, todo salió como lo imaginaba. Sin duda alguna las volvería a elegir una y mil veces.</p>
+                <h3>Yessica Poveda</h3>
+                <p>Excelente servicio y maravillosos beneficios.</p>
+              </div>
+            </div>
+            <div data-aos="fade-down" data-aos-delay="300">
+              <div className="myCarousel">
+                <h3>Ingrid Sanchez</h3>
+                <p>Excelente servicio, oportuno y claro. super recomendado ⭐️⭐️⭐️⭐️⭐️</p>
+              </div>
+            </div>
+            <div data-aos="fade-down" data-aos-delay="300">
+              <div className="myCarousel">
+                <h3>Hector Camacho</h3>
+                <p>Excelente servicio y efectividad, llegó recibiendo subsidio de arrendamiento desde hace varios meses 👌</p>
+              </div>
+            </div>
+            <div data-aos="fade-down" data-aos-delay="300">
+              <div className="myCarousel">
+                <h3>Karen Barbosa</h3>
+                <p>Excelente atención y cumplimiento, brindan muy buen asesoramiento. 💯 Recomendado ⭐⭐⭐⭐⭐</p>
+              </div>
+            </div>
+            <div data-aos="fade-down" data-aos-delay="300">
+              <div className="myCarousel">
+                <h3>Yessica Poveda</h3>
+                <p>Excelente servicio y maravillosos beneficios.</p>
               </div>
             </div>
           </Carousel>
