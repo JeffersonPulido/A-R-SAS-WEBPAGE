@@ -10,6 +10,14 @@ export const Footer = () => {
       <img src={waves} alt="" />
       {/* FOOTER */}
       <footer>
+        <div className='containerInfoFooter'>
+          <p className='infoTitleFooter'>Nombre Asesor</p>
+          <p className='infoDescFooter'>Magda Alejandra Rodriguez Manrique</p>
+          <p className='infoTitleFooter'>Correo Electronico</p>
+          <p className='infoDescFooter'><a href="mailto:rodriguezmanriquealeja@gmail.com"><i class="fa-solid fa-hand-pointer"></i> rodriguezmanriquealeja@gmail.com</a></p>
+          <p className='infoTitleFooter'>Numero Celular</p>
+          <p className='infoDescFooter'><a href="tel:+573122684578"><i class="fa-solid fa-hand-pointer"></i> +57 312-268-4578</a></p>
+        </div>
         <div className="containerLogo">
           <a href="#">
             <img src={logoWhite} alt=""/>

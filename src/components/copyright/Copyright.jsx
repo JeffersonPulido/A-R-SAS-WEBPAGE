@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import './Copyright.css'
 
 export const Copyright = () => {
 
@@ -18,7 +19,7 @@ export const Copyright = () => {
             {/* COPYRIGHT */}
             <div className="copyright">
                 <a href="https://jeffersonpulido.netlify.app" target="_blank">
-                    <p className="footerText"><span id="year">{dateFooter}</span> Copyright &#169; Event Planners - JPulido Dev</p>
+                    <p className="footerText"><span id="year">{dateFooter}</span> Copyright &#169; JPulido Dev</p>
                 </a>
             </div>
         </>

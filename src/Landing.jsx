@@ -15,6 +15,8 @@ export const Landing = () => {
       <Header/>
       <Services/>
       <Testimonials/>
+      <Footer/>
+      <Copyright/>
     </>
   )
 }
