@@ -30,14 +30,27 @@
 /* MOBILE */
 @media screen and (max-width: 767px) {
     .historyContainer {
-        height: auto;
+        height: 50vh;
         margin-bottom: -0.5rem;
     }
-
+    .myCarouselImages {
+        width: 100%;
+    }
+    .carousel .control-dots {
+        padding-left: 5px !important;
+        outline: 0;
+        bottom: -4% !important;
+    }
 }
 
 /* DESKTOP BIG*/
-@media (min-width: 1800px) {}
+@media (min-width: 1800px) {
+    .carousel .control-dots {
+        padding-left: 5px !important;
+        outline: 0;
+        bottom: 5% !important;
+    }
+}
 
 /* TABLET */
 @media screen and (min-width: 767px) and (max-width: 1023px) {
