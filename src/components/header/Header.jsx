@@ -14,7 +14,7 @@ export const Header = () => {
           <p className="infoTitlemin bounceInRight">ALEJANDRA RODRIGUEZ ASESORIAS Y SOLUCIONES SAS</p>
           <p className="infoDesc">Somos una empresa dedicada a realizar afiliaciones a seguridad social corporativas, independientes, comerciantes entre otros.  Ofrecemos servicios de perfilamiento para subsidios de vivienda y reducción de tiempo e interés de créditos hipotecarios o leasing habitacional en convenio con otra entidad.</p>
           <div className="btnMore">
-            <a className="btn" href="/history">Leer más</a>
+            <a className="btn" href="/more">Leer más</a>
           </div>
         </div>
       </section>

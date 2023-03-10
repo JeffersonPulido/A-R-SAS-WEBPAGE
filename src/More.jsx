@@ -3,13 +3,13 @@ import { Footer } from './components/footer/Footer'
 import { Navbar } from './components/navbar/Navbar'
 import { Copyright } from './components/copyright/Copyright'
 import { Whatsapp } from './components/btnWhatsapp/Whatsapp'
-import { History } from './components/history/History'
+import { MoreInfo } from './components/moreInfo/MoreInfo'
 
-export const HistoryPage = () => {
+export const More = () => {
     return (
         <>
             <Navbar />
-            <History />
+            <MoreInfo />
             <Footer />
             <Copyright />
             <Whatsapp />
