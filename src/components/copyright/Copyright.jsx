@@ -3,7 +3,7 @@ import './Copyright.css'
 
 export const Copyright = () => {
 
-    const [dateFooter, setDateFooter] = useState(2022)
+    const [dateFooter, setDateFooter] = useState(2023)
     const getDateFooter = () => {
         const year = document.getElementById("year");
         const yearCopy = year.textContent = new Date().getFullYear();
